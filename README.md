@@ -21,4 +21,9 @@ Here are some ideas to get you started:
 
 ### Last posts at my blog:
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring MySQL restarts with PowerShell](https://www.sipmann.com/monitoring-mysql-restarts-with-powershell.html)
+- [Monitorando restarts do MySQL com PowerShell](https://www.sipmann.com/pt/monitoring-mysql-restarts-with-powershell.html)
+- [Changing a MySQL user password across multiple application instances without downtime](https://www.sipmann.com/mysql-dual-password-functionality.html)
+- [Trocando a senha de um usuário do MySQL sem downtime da aplicação](https://www.sipmann.com/pt/mysql-dual-password-functionality.html)
+- [Apache Nifi JSON to SQL Replacing underscore](https://www.sipmann.com/apache-nifi-json-to-sql-replacing-underscore.html)
 <!-- BLOG-POST-LIST:END -->
