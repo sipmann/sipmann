@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+- 🔭 I’m always looking for a cool freelance ;)
 - 🌱 I’m currently working as a ADVPL Developer and .net Freelancer
 - ⚡ Fun fact: I've already earned a "Run UPDATE WITHOUT WHERE ON PRODUCTION" badge 😄
 <!--
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Last posts at my blog:</h2>
+### Last posts at my blog:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
